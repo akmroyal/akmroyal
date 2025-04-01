@@ -1,14 +1,17 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hey 👋, I'm Ashutosh Maurya [Akm Roayls ♛]</h1>
-<h3 align="center">Frontend Developer & Programmer</h3>
+<h3 align="center">FullStack Developer [MERN Stack] & Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmroyal&label=Profile%20views&color=0e75b6&style=flat" alt="akmroyal" /> </p>
 
-- 🔭 I’m currently working on [TwitTube Social Media](https://akmroyal.github.io)
+- 🔭 I’m currently working on [Backend Projects](https://akmroyal.github.io)
 
 - 🌱 I’m currently learning **Backend Development or Dynamic Programming**
 
-- 👨‍💻 All of my projects are available at [https://akmroyal.github.io/MyPortfolio/](https://akmroyal.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are :
+  1. [ANY-2-ANY-pdf-Convertor](https://any-2-any-convrter-project.vercel.app/)
+  2. [Portfolio 2022](https://akmroyal.github.io/MyPortfolio/)
+  3. [Portfolio 2024](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS)
 
 - 📝 I regularly write articles on [https://akmroyal.blogspot.com/?m=1](https://akmroyal.blogspot.com/?m=1)
 
@@ -16,7 +19,7 @@
 
 - 📫 How to reach me **ashutoshmaxxxx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14mG6cXmCFNLMN3COWJNtr8yzvjqD2i3e/view?usp=sharing](https://drive.google.com/file/d/14mG6cXmCFNLMN3COWJNtr8yzvjqD2i3e/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKSjp7I3zU3s3fordPM2Wca1jDpOMuvZ/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm CareFul with Your Work ! Not U 😏**
 

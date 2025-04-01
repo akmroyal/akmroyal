@@ -10,8 +10,8 @@
 
 - 👨‍💻 All of my projects are :
   1. [ANY-2-ANY-pdf-Convertor](https://any-2-any-convrter-project.vercel.app/)
-  2. [Portfolio 2022](https://akmroyal.github.io/MyPortfolio/)
-  3. [Portfolio 2024](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS)
+  2. [Portfolio 2024](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS)
+  3. [Portfolio 2022](https://akmroyal.github.io/MyPortfolio/)
 
 - 📝 I regularly write articles on [https://akmroyal.blogspot.com/?m=1](https://akmroyal.blogspot.com/?m=1)
 

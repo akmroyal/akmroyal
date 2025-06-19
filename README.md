@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 <h1 align="center">Hey 👋, I'm Ashutosh Maurya [Akm Roayls ♛]</h1>
 <h3 align="center">FullStack Developer [MERN Stack] & Programmer</h3>
 
@@ -6,20 +6,25 @@
 
 - 🔭 I’m currently working on [Backend Projects](https://akmroyal.github.io)
 
-- 🌱 I’m currently learning **Backend Development or Dynamic Programming**
+- 🌱 I’m currently learning **Advance Development or Dynamic Programming**
 
 - 👨‍💻 All of my projects are :
-  1. [ANY-2-ANY-pdf-Convertor](https://any-2-any-convrter-project.vercel.app/)
-  2. [Portfolio 2024](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS)
+  1. [Netflix Clone 2022](https://github.com/akmroyal/Netflix-Clone.git)
+  2. [Socio Web Design 2023](https://akmroyal.github.io/SocioWeb-App-Platform/)
   3. [Portfolio 2022](https://akmroyal.github.io/MyPortfolio/)
+  4. [Portfolio 2024](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS)
+  5. [ANY-2-ANY-pdf-Convertor](https://any-2-any-convrter-project.vercel.app/)
+  6. [VideoTube Full Stack Project](https://ak-videotube.vercel.app/)
+  7. [DevLaunchPad Multi Gaming & Tools WebApp](https://github.com/akmroyal/Dev-Launch-Pad-Tools-App.git)
+
+- 📄 Know about my experiences : [PortFolio](https://ashutosh-portfolio-v3.vercel.app/)
 
 - 📝 I regularly write articles on [https://akmroyal.blogspot.com/?m=1](https://akmroyal.blogspot.com/?m=1)
 
-- 💬 Ask me about **JAVA, Html, Css, JavaScript,C, DSA, etc**
+- 💬 Ask me about **JAVA, Html, Css, JavaScript,C, DSA, TypeScript, NodeJs, TailwindCSS, Many more about tech**
 
 - 📫 How to reach me **ashutoshmaxxxx@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKSjp7I3zU3s3fordPM2Wca1jDpOMuvZ/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm CareFul with Your Work ! Not U 😏**
 

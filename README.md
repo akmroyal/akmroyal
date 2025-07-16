@@ -42,7 +42,7 @@ const ashu_maurya = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🌌%20ABOUT%20THE%20DEVELOPER%20🌌&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABOUT%20THE%20DEVELOPER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 

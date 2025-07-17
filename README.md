@@ -67,6 +67,7 @@ const ashu_maurya = {
 | 📄 **ANY-2-ANY PDF Convertor** | Convert any file format to PDF seamlessly | NextJS, Vercel, 2024 | [🔗 Live](https://any-2-any-convrter-project.vercel.app/) |
 | 📺 **VideoTube Full Stack**    | Scalable video hosting & social platform (like YouTube + Twitter) | MERN, Cloudinary, Tailwind, 2024 | [🔗 Live](https://ak-videotube.vercel.app/) |
 | 🎮 **DevLaunchPad Multi Gaming & Tools** | Suite of web tools & games for devs | ReactJS, NodeJS, 2024 | [🔗 Repo](https://github.com/akmroyal/Dev-Launch-Pad-Tools-App.git) |
+|🧑🏻‍💻 **CareerQuest**|CareerQuest is a modern job board platform which provides a seamless experience for both job seekers and employers.|MERN, Cloudinary, ShadCn etc.|[🔗Repo](https://github.com/akmroyal/CareerQuest-WebApp)|
 
 
 <div align="center">
